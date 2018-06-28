@@ -1,0 +1,13 @@
+input{
+  width: 40%;
+  height: 5vh;
+  margin: 1%;
+  border-radius: 5px;
+}
+
+form{
+  padding: 5%; 
+  margin: auto;
+  box-shadow: 4px 4px 8px 4px black;
+  width: 50%;
+}
